@@ -1,6 +1,6 @@
 # DIO - Trilha Java Básico
 
-#### Autores
+#### Autor
 Fábio Yokomizo
 
 #### Desafio
